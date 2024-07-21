@@ -9,4 +9,5 @@ This repository features a sophisticated Persian poetry generator model built us
 # Resource
 
 NanoGPT : https://github.com/karpathy/build-nanogpt
+
 BolbolZaban : https://github.com/khashei/bolbolzaban-gpt2-persian
